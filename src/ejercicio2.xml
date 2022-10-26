@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE listapedidos SYSTEM "ejercicio2.dtd">
+<listapedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="ejercicio2.xsd">
+    <pedido>
+        <numeroserie>123456</numeroserie>
+        <cantidad>2</cantidad>
+    </pedido>
+    <pedido>
+        <numeroserie>456789</numeroserie>
+        <cantidad>8</cantidad>
+        <peso>120</peso>
+    </pedido>
+    <pedido>
+        <numeroserie>789123</numeroserie>
+        <cantidad>1</cantidad>
+        <peso>15</peso>
+    </pedido>
+</listapedidos>
